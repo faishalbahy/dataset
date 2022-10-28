@@ -80,11 +80,6 @@
         "responses": ["House blend adalah kopi yang diracik dari berbagai jenis kopi, baik dari sisi daerah tertentu atau varietas. Namun, racikan house blend-nya tidak sama"]
       },
       {
-        "tag": "orang_konsumsi_kopi",
-        "patterns": ["Orang yang diperbolehkan minum kopi?"],
-        "responses": ["Semua orang diperbolehkan kecuali bayi, ibu menyusui, ibu hamil, dan orang yang memiliki penyakit yang memiliki pantangan minum kopi"]
-      },
-      {
         "tag": "pembayaran",
         "patterns": ["Dimana pembayaran bisa dilakukan?", "Pembayaran melalui apa?"],
         "responses": ["Pembayaran bisa melalui COD, Cash, E-Wallet, dan Bank"]
